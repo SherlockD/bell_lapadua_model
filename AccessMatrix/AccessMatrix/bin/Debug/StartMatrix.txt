@@ -1,0 +1,5 @@
+files.txt printer movies.avi games autoexec.bat rights
+sys_admin rwcd p sd S wr cd
+hi_user rwc p sd s - -
+low_user r p s s - -
+guest r - - s - -

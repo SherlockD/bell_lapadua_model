@@ -1,0 +1,6 @@
+C:\Users\Лучший человек\RiderProjects\AccessMatrix\AccessMatrix\bin\Debug\AccessMatrix.exe
+C:\Users\Лучший человек\RiderProjects\AccessMatrix\AccessMatrix\bin\Debug\AccessMatrix.pdb
+C:\Users\Лучший человек\RiderProjects\AccessMatrix\AccessMatrix\obj\Debug\AccessMatrix.csprojAssemblyReference.cache
+C:\Users\Лучший человек\RiderProjects\AccessMatrix\AccessMatrix\obj\Debug\AccessMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Лучший человек\RiderProjects\AccessMatrix\AccessMatrix\obj\Debug\AccessMatrix.exe
+C:\Users\Лучший человек\RiderProjects\AccessMatrix\AccessMatrix\obj\Debug\AccessMatrix.pdb
